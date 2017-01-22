@@ -1,3 +1,3 @@
 # hello-world
-first github repot
+first github repo
 adding a line
